@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tubes</string>
+    <string name="save">Save</string>
+    <string name="desc">Desc</string>
+    <string name="mood">Mood</string>
+    <string name="event">Event</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+    <string name="no_records">No Records</string>
+    <string name="your_mood_records">Your Mood Records</string>
+    <string name="back">BACK</string>
+    <string name="mood_records">Mood Records</string>
+    <string name="welcome">Welcome!</string>
+    <string name="mood_tracker">Mood Tracker</string>
+    <string name="help_you_to_track_your_mood">Help you to track your mood</string>
+    <string name="track_your_mood">Track Your Mood</string>
+    <string name="today_s_date">Today\'s Date:</string>
+    <string name="today_s_event">Today\'s Event</string>
+    <string name="notes_to_myself">Notes to Myself</string>
+    <string name="how_are_you_today">How are you today?</string>
+    <string name="dateview">dateview</string>
+    <string name="moodview">moodview</string>
+    <string name="eventview">eventview</string>
+</resources>
